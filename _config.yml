@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xinxin Liu / Site Title"
+title                    : "Xinxin Liu"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Xinxin Liu"
 description              : &description "personal description"
 url                      : https://starliu714.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
