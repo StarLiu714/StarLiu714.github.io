@@ -16,7 +16,7 @@ Even the smallest person can change the course of future!
 
 Research Interest
 ======
-* AI4Science (Phisical Chemistry and Materials Science) 
+* AI4Science (Physical Chemistry and Materials Science) 
 * Computational Materials Science
 * Data-driven topological(molecular) fingerprints characteristic prediction
 * Polymer color versus configuration discovery
