@@ -25,9 +25,11 @@ Research Interest
 
 Education
 ======
+
  **Master's degrees,  University of Pennsylvania, PA, US**
 * Computer and Information Science (CIS, dual degree programme)
 * Materials Science and Engineering
+
  **Bachelor's degrees**
 * Materials Science and Engineering (dual Bachelor's programme), BEng, *University of Birmingham, West Midland, UK*
 * Polymer Science and Engineering, BEng, *Beijing University of Chemical Engineering, P.R.China*
