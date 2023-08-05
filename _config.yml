@@ -83,7 +83,7 @@ author:
   name             : "Xinxin Liu"
   avatar           : "profile.png"
   bio              : # "Your biography for the left-hand sidebar"
-  location         : "Philadelphia, PA, \n United States of America"
+  location         : "Philadelphia, PA, "<br> "United States of America"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
