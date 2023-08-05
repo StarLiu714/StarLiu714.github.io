@@ -27,8 +27,10 @@ Education
 * Polymer Science and Engineering, BEng, Beijing University of Chemical Engineering, P.R.China
 
 Projects & Coursework
-------
+======
 *  Molecular Dynamics Simulation for 2D-Argon atoms, MSE 5610, 22Fall [Repository](https://github.com/StarLiu714/2D-Molecular-Dynamics-Toy-Project)
+*  Cassava Leaf Image Classification, CIS 5190, 23 Spring, [Repository](https://github.com/StarLiu714/Cassava-Fine-Grained-Image-Classification/tree/main)
+*  Analysis for customer sentimental preferences of YouTube, CIS 5450, 22Fall, [Repository]()
 
 Create content & metadata
 ------
