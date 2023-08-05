@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xinxin Liu"
   avatar           : "profile.png"
-  bio              : # "Your biography for the left-hand sidebar"
+  bio              : "Dual degree Master's student"
   location         : "Philadelphia, PA, US"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  bilibili         : "https://space.bilibili.com/6129712"
 
 
 # Reading Files
