@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Xinxin, who was born in Henan and grew up in Zhejiang, Shanghai and Beijing. 
+Hello! My name is Xinxin. I was born in Henan and grew up in Zhejiang, Shanghai and Beijing. 
 
 Even the smallest person can change the course of future!
 
