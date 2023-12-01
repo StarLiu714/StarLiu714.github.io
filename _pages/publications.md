@@ -17,6 +17,10 @@ You can also find my manuscripts via email.
   {% include archive-single.html %}
 {% endfor %} -->
 
+Preprints
+-----
+* Yuzhi Xu#, **Xinxin Liu**#, Jiankai Ge, Wei Xia, Cheng-Wei Ju, Haiping Zhang, John Z.H. Zhang\*, [ChemXTree:A Tree-enhanced Classification Approach to Small-molecule Drug Discovery](https://doi.org/10.1101/2023.11.28.568989)
+To appear in *bioRxiv* 2023.11.28.568989.
 
 Journal Publications
 -----
